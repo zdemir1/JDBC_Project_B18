@@ -1,4 +1,4 @@
-package EdwardsLearningFork;
+package edwardsLearningFork;
 
 public class Edward {
     public static void main(String[] args) {
